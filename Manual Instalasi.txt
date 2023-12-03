@@ -1,0 +1,10 @@
+1. Ekstrak Folder KSSI ke dalam Folder htdocs (C:/xampp/htdocs/)
+2. Jalankan XAMPP(Apache dan Mysql) Untuk pengguna Windows
+3. Buka Browser dan ketikkan alamat "http://localhost/phpmyadmin"
+4. Buat database dengan nama "bkk" lalu Import file sql yang ada di folder jofin
+5. Buka Browser Jalankan 
+URL "http://localhost/jofin/" => untuk Administrator
+URL "http://localhost/jofin/web" => untuk Website Users
+
+
+*Note : Apabila terjadi  kendala saat instalasi silahkan hubungi ndilodong202@gmail.com
